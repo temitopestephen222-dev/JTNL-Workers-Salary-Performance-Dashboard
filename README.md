@@ -1,5 +1,11 @@
 # JTNL Workers Salary and Performance Dashboard
 
+## Dashboard Preview
+### Page 1 — Salary Overview
+![Page 1](JTNL%201.png)
+
+### Page 2 — Staff & Salary Breakdown
+![Page 2](JTNL%202.png)
 ## Overview
 A two-page interactive HR salary dashboard built in Power BI,
 analyzing salary distribution, departmental spend, staff
