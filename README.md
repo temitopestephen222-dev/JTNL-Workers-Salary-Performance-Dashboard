@@ -60,11 +60,10 @@ employment status, department and age group.
 - Finance and HR are both split 50/50 between High and Low
 - Workers aged 30-40 show the most salary diversity
 
-## Files
-- JTNL_Dashboard.pbix — Power BI file
-- employee_records.xlsx — Cleaned dataset
-- Page1_Screenshot.png — Dashboard Page 1
-- Page2_Screenshot.png — Dashboard Page 2
+- JTNL BI.pbix — Power BI file
+- JTNL EMPLOYEES.csv — Cleaned dataset
+- JTNL 1.png — Dashboard Page 1
+- JTNL 2.png — Dashboard Page 2
 
 ## Author
 Temitope Stephen
